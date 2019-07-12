@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Project Name is a fitness competition application built with React, Hooks, Context, and Firebase.
+> The fastest way to start with firebase
 
 ### 🏠 [Homepage](Project Url)
 
